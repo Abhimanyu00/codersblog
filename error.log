@@ -1,0 +1,2 @@
+[Tue Mar 07 18:47:05 2017] [error] [client 192.168.0.37] Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
+[Tue Mar 07 18:47:05 2017] [error] [client 192.168.0.37] Request exceeded the limit of 10 internal redirects due to probable configuration error. Use 'LimitInternalRecursion' to increase the limit if necessary. Use 'LogLevel debug' to get a backtrace.
